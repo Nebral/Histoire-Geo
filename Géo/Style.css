@@ -1,0 +1,44 @@
+html{
+	background-color: #81D4FA;
+	height: 100% 
+	white: 100%;
+}
+h1{
+	color:#A1887F;
+}
+#ul1{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #00B0FF;
+height: 50px;
+border:solid;
+margin-right: -5px;
+margin-left: -5px;
+}
+#li1{
+display: inline;
+
+}
+#aLi1{
+display: inline;
+color: white;
+text-align: center;
+text-decoration: none;
+margin-left: 820px;
+font-size: 25px;
+}	
+.Map img{	
+	margin-left:550px;
+	margin-top:30px;
+	border:solid;
+
+
+}
+#imgMap{
+	margin-left:550px;
+	margin-top:10px;
+
+
+}
