@@ -1,32 +1,33 @@
 html{
 	background-color: #81D4FA;
-	height: 100% 
-	white: 100%;
+	height: auto 
+	white: auto;
 }
 h1{
 	color:#A1887F;
 }
 #ul1{
 list-style-type: none;
-margin: 0;
-padding: 0;
+margin: auto;
+padding: auto;
 overflow: hidden;
 background-color: #00B0FF;
-height: 50px;
+height: auto;
 border:solid;
-margin-right: -5px;
-margin-left: -5px;
+margin-right: auto;
+margin-left: auto;
 }
 #li1{
 display: inline;
-
 }
 #aLi1{
-display: inline;
-color: white;
 text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+color: white;
 text-decoration: none;
-margin-left: 820px;
 font-size: 25px;
 }	
 .Map img{	
@@ -35,12 +36,8 @@ font-size: 25px;
 	margin-right: auto;
 	margin-top: 10px;
 	border:solid;
-
-
 }
 #imgMap{
-	margin-left:550px;
+	margin-left:auto;
 	margin-top:10px;
-
-
 }

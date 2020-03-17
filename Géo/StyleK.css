@@ -7,5 +7,12 @@ text-decoration: underline;
 }
 img{
 	margin-left: 550px;
-
+}
+p{
+	text-align: center;
+	font-size: 50px;
+}
+#rm{
+	text-align: center;
+	font-size: 50px;
 }
